@@ -1,4 +1,4 @@
 # C - Sorting algorithms & Big O
-__
+_
 In this project, I implemented several different sorting algorithms.
-# Tests ✔️
+## Tests ✔️
